@@ -95,7 +95,7 @@ export default function App() {
   return (
     <div className="page">
       <header className="header">
-        <h1>Smat Statement Parser</h1>
+        <h1>Smart Statement Parser</h1>
         <p className="subtitle">
           Upload a bank statement (CSV, XLSX, PDF, or a screenshot). Wrapped, multi-line
           Narration text gets collapsed back into a single cell per transaction — then
